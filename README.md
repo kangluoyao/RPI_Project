@@ -1,6 +1,6 @@
 # RPI_Project
 
-This is the code for the Biological Image Analysis project.
+This is the code base for the Biological Image Analysis project.
 
 
 # Anaconda Environment Setup
